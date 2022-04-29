@@ -1,0 +1,3 @@
+﻿<%
+ Response.Redirect "http://www.dicomlookup.com/lookuppage.asp"
+ %> 
